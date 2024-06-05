@@ -38,13 +38,16 @@ Final Model Selected with no. of features = 10, based on p values of the feature
 
 ## Business Impact
 1. **Projected Revenue Improvements**
-There will be potential revenue improvements resulting from the optimized budget allocation
+   
+   There will be potential revenue improvements resulting from the optimized budget allocation
 
 2. **Long-Term Benefits**
-Optimized budget allocation can create a ripple effect, impacting long-term brand perception, customer loyalty, and market positioning
+   
+   Optimized budget allocation can create a ripple effect, impacting long-term brand perception, customer loyalty, and market positioning
 
 3. **Improved ROI**
-Investing in high-impact marketing channels optimizes revenue for every marketing dollar invested, resulting in a direct increase in ROI.
+   
+   Investing in high-impact marketing channels optimizes revenue for every marketing dollar invested, resulting in a direct increase in ROI.
 
 
 
